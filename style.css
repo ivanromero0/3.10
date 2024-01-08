@@ -5,3 +5,7 @@ body {
     color: brown;
     
 }
+
+p.carta {
+    display: inline-block;
+}
