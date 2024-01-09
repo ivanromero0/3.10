@@ -6,6 +6,20 @@ body {
     
 }
 
+p {
+    color: brown;
+}
+
 p.carta {
     display: inline-block;
+}
+
+.cafe {
+    position: relative;
+    left: 800px;
+}
+
+.contacto {
+    position: relative;
+    left: 1600px;
 }
